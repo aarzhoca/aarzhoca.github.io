@@ -1,4 +1,3 @@
-# _config.yml
 title: Aaron Zhou — Firmware, Systems & Applied AI
 description: Notes from building reliable firmware, test rigs, and practical ML at the edge.
 theme: minima
@@ -8,3 +7,7 @@ plugins:
   - jekyll-seo-tag
 
 permalink: /posts/:slug/
+timezone: America/Los_Angeles
+future: true
+
+
