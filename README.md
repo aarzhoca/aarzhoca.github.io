@@ -12,7 +12,7 @@ Live site: https://aarzhoca.github.io
 - [/posts/ai-assist-firmware-guardrails/](https://aarzhoca.github.io/posts/ai-assist-firmware-guardrails/)
 - [/posts/tinyml-zephyr-anomaly/](https://aarzhoca.github.io/posts/tinyml-zephyr-anomaly/)
 - [/posts/fil-packet-telemetry/](https://aarzhoca.github.io/posts/fil-packet-telemetry/)
-- [posts/2025-10-23-vr-wrist-emg-lab/](https://aarzhoca.github.io/posts/fil-packet-telemetry/)
+- [posts/vr-wrist-emg-lab/](https://aarzhoca.github.io/posts/vr-wrist-emg-lab/)
 ## Local preview (optional)
 ```bash
 gem install bundler jekyll
